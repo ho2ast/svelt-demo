@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		저녁 드실분 투표하기
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		저녁을 드시려면 투표하세요
 	</h2>
 
 	<Counter />
